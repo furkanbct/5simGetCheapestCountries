@@ -1,6 +1,6 @@
 # 5sim Get Cheapest Country
 ## About
-This software uses to list cheapest priced country by service
+This software uses to list cheapest priced countries by service
 ## How to use
 * As first run ```pip install -r requirements.txt``` command to install required libraries in your terminal
 
