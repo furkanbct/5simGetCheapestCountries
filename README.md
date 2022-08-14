@@ -1,4 +1,4 @@
-# 5sim Get Cheapest Country
+# 5sim Get Cheapest Countries
 ## About
 This software uses to list cheapest priced countries by service
 ## How to use
