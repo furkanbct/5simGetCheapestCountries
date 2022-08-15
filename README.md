@@ -1,4 +1,6 @@
 # 5sim Get Cheapest Countries
+![Repo Size](https://img.shields.io/github/repo-size/furkanbct/5simGetCheapestCountries)
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/furkanbct/5simGetCheapestCountries&title=Views)
 ## About
 This software uses to list cheapest priced countries by service
 ## How to use
